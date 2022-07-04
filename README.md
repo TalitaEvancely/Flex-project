@@ -6,7 +6,7 @@
 - O projeto foi divido em  3 section e divs dentro delas. Foi utilizado classes para trabalhar a estilização da página.
 
 ### CSS
-- Atraves das classe foi trabalhado a estilização do projeto.
+- Através das classe foi trabalhado a estilização do projeto.
 - Ele é responsivo para tablet e mobile.
 
 Deploy: https://talitaevancely.github.io/Flex-project/
