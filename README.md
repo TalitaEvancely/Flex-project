@@ -7,6 +7,6 @@
 
 ### CSS
 - Através das classe foi trabalhado a estilização do projeto.
-- Ele é responsivo para tablet e mobile.
+- A Landing Page é responsivo para tablet e mobile.
 
 Deploy: https://talitaevancely.github.io/Flex-project/
